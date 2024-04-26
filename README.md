@@ -21,7 +21,7 @@ Features:
 
 Getting Started:
 1. Clone the repository:
-   git clone https://github.com/your-username/gadgetzone.git
+   git clone https://github.com/FaizDev72/GadgetZone-Django.git
 
 2. Install required dependencies:
    pip install -r req.txt
